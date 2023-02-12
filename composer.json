@@ -1,0 +1,15 @@
+{
+    "name": "pabli/proyecto",
+    "autoload": {
+        "psr-4": {
+            "Pabli\\Proyecto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pablo Juarez",
+            "email": "pablisquinightmare@gmail.com"
+        }
+    ],
+    "require": {}
+}
